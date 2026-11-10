@@ -1,0 +1,9 @@
+# 系统生成的杂项文件，不需要进仓库
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器临时文件
+*.log
+*.tmp
+.vscode/
